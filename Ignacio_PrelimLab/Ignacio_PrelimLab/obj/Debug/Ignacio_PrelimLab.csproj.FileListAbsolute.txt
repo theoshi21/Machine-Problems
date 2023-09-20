@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\bin\Debug\Ignacio_PrelimLab.exe.config
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\bin\Debug\Ignacio_PrelimLab.exe
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\bin\Debug\Ignacio_PrelimLab.pdb
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.csprojAssemblyReference.cache
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.exe
+C:\Users\student\Desktop\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.pdb
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\bin\Debug\Ignacio_PrelimLab.exe.config
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\bin\Debug\Ignacio_PrelimLab.exe
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\bin\Debug\Ignacio_PrelimLab.pdb
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.csproj.AssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.exe
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\Lab\Ignacio_PrelimLab\Ignacio_PrelimLab\obj\Debug\Ignacio_PrelimLab.pdb
