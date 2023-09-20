@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\bin\Debug\MP3-1_Ignacio.exe.config
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\bin\Debug\MP3-1_Ignacio.exe
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\bin\Debug\MP3-1_Ignacio.pdb
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.csprojAssemblyReference.cache
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.exe
+C:\Users\student\Desktop\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.pdb
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\bin\Debug\MP3-1_Ignacio.exe.config
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\bin\Debug\MP3-1_Ignacio.exe
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\bin\Debug\MP3-1_Ignacio.pdb
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.csproj.AssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.exe
+C:\Users\Kelvin\OneDrive\Desktop\College\Comp Prog\MP3_Ignacio\MP3_Ignacio\MP3-1_Ignacio\MP3-1_Ignacio\obj\Debug\MP3-1_Ignacio.pdb
