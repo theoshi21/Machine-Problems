@@ -1,0 +1,14 @@
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\bin\Debug\MP4-3_Ignacio.exe.config
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\bin\Debug\MP4-3_Ignacio.exe
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\bin\Debug\MP4-3_Ignacio.pdb
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.exe
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.pdb
+C:\Users\student\Desktop\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.csprojAssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\bin\Debug\MP4-3_Ignacio.exe.config
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\bin\Debug\MP4-3_Ignacio.exe
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\bin\Debug\MP4-3_Ignacio.pdb
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.csproj.AssemblyReference.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.exe
+C:\Users\Kelvin\OneDrive\Desktop\College\TTH\Comp Prog\MP4_Ignacio\MP4_Ignacio\MP4-3_Ignacio\MP4-3_Ignacio\obj\Debug\MP4-3_Ignacio.pdb

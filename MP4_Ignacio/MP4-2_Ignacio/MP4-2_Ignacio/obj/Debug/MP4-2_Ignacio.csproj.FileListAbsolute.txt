@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\bin\Debug\MP4-2_Ignacio.exe.config
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\bin\Debug\MP4-2_Ignacio.exe
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\bin\Debug\MP4-2_Ignacio.pdb
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\obj\Debug\MP4-2_Ignacio.csprojAssemblyReference.cache
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\obj\Debug\MP4-2_Ignacio.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\obj\Debug\MP4-2_Ignacio.exe
+C:\Users\student\Desktop\MP4_Ignacio\MP4-2_Ignacio\MP4-2_Ignacio\obj\Debug\MP4-2_Ignacio.pdb
