@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\bin\Debug\MidMP1-5.exe.config
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\bin\Debug\MidMP1-5.exe
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\bin\Debug\MidMP1-5.pdb
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\obj\Debug\MidMP1-5.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\obj\Debug\MidMP1-5.exe
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\obj\Debug\MidMP1-5.pdb
+C:\Users\student\Desktop\Ignacio_Kel--MidMP1\MidMP1-5\MidMP1-5\obj\Debug\MidMP1-5.csprojAssemblyReference.cache
