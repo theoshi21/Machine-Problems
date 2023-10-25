@@ -25,7 +25,7 @@ namespace MidtermExam_Ignacio
                     {
                         if (Convert.ToString(pass) == accs[i, 1])
                         {
-                            Console.WriteLine("\nYou're logged in! What do you want to do perform?\n" + "[1] Deposit\n" + "[2] Withdraw\n" + "[3] Check balance");
+                            Console.WriteLine("\nYou're logged in! What do you want to perform?\n" + "[1] Deposit\n" + "[2] Withdraw\n" + "[3] Check balance");
                             Console.Write("ACTION: ");
                             int action = int.Parse(Console.ReadLine());
                             double money = Convert.ToDouble(accs[i, 2]);
