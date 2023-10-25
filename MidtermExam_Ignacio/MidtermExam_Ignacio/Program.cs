@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,14 +19,13 @@ namespace MidtermExam_Ignacio
                 string user = Console.ReadLine();
                 Console.Write("Enter Pin: ");
                 int pass = int.Parse(Console.ReadLine());
-
                 for (int i = 0; i < 5; i++)
                 {
                     if (user == accs[i, 0])
                     {
                         if (Convert.ToString(pass) == accs[i, 1])
                         {
-                            Console.WriteLine("\nYou're logged in! What do you want to perform?\n" + "[1] Deposit\n" + "[2] Withdraw\n" + "[3] Check balance");
+                            Console.WriteLine("\nYou're logged in! What do you want to do perform?\n" + "[1] Deposit\n" + "[2] Withdraw\n" + "[3] Check balance");
                             Console.Write("ACTION: ");
                             int action = int.Parse(Console.ReadLine());
                             double money = Convert.ToDouble(accs[i, 2]);
@@ -42,7 +41,6 @@ namespace MidtermExam_Ignacio
                                 case 2:
                                     Console.Write("How much would you like to withdraw?: ");
                                     double withdraw = double.Parse(Console.ReadLine());
-                                    Convert.ToDouble(accs[i,2]);
                                     if (withdraw <= 20000)
                                     {
                                         if (withdraw <= money)
@@ -62,7 +60,7 @@ namespace MidtermExam_Ignacio
                                     Console.WriteLine("Invalid action.");
                                     break;
                             }
-                            i = 5;
+                            break;
                         }
                     }
                     else if (user != accs[i, 0] && i == 4) Console.WriteLine("\nInvalid credentials.");
@@ -75,4 +73,3 @@ namespace MidtermExam_Ignacio
         }
     }
 }
-
