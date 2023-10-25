@@ -15,12 +15,10 @@ namespace MidtermExam_Ignacio
             while (Program)
             {
                 Console.WriteLine("ATM Program");
-                string user;
-                int pass;
                 Console.Write("Account: ");
-                user = Console.ReadLine();
+                string user = Console.ReadLine();
                 Console.Write("Enter Pin: ");
-                pass = int.Parse(Console.ReadLine());
+                int pass = int.Parse(Console.ReadLine());
 
                 for (int i = 0; i < 5; i++)
                 {
@@ -28,11 +26,10 @@ namespace MidtermExam_Ignacio
                     {
                         if (Convert.ToString(pass) == accs[i, 1])
                         {
-                            Console.WriteLine("\nYou're logged in! What do you want to do perform?\n" + "[1] Deposit\n" + "[2] Withdraw\n" + "[3] Check balance");
+                            Console.WriteLine("\nYou're logged in! What do you want to perform?\n" + "[1] Deposit\n" + "[2] Withdraw\n" + "[3] Check balance");
                             Console.Write("ACTION: ");
                             int action = int.Parse(Console.ReadLine());
                             double money = Convert.ToDouble(accs[i, 2]);
-
                             switch (action)
                             {
                                 case 1:
@@ -72,7 +69,6 @@ namespace MidtermExam_Ignacio
                 }
                 Console.Write("\nEnter 'N' to stop. Else, press anything to continue: ");
                 string cont = Console.ReadLine();
-
                 if (cont.ToLower() == "n") Program = false;
                 else Console.Clear();
             }
